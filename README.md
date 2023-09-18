@@ -7,4 +7,4 @@
 
 ```
 
-Browse my repositories at [**@zenodotuscoderrepositories**](https://github.com/zenodotuscoderrepositories) or visit my website at [**zenodotuscoder.com**](https://www.zenodotuscoder.com/)
+Browse my repositories at [**@zenodotuscoderrepositories**](https://github.com/zenodotuscoderrepositories/repositories) or visit my website at [**zenodotuscoder.com**](https://www.zenodotuscoder.com/)
